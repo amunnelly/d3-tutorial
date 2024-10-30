@@ -1,16 +1,4 @@
-body{
+body {
     font-family: sans-serif;
     margin-left: 2rem;
-}
-
-.tooltip{
-    position: absolute;
-    background: aliceblue;
-    pointer-events: none;
-    font: 18px sans-serif;
-    width: 200px;
-    height: 100px;
-    padding: 5px;
-    border: 1px solid black;
-    border-radius: 10px;
 }
