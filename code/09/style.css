@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+    margin-left: 2rem;
+}
+
+.tooltip{
+    position: absolute;
+    background: aliceblue;
+    pointer-events: none;
+    font: 15px sans-serif;
+    width: 200px;
+    height: 67px;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.axisLabel{
+    text-anchor: end;
+    font-size: 12px;
+}
+
+.dataline{
+    stroke-width: 2px;
+}
