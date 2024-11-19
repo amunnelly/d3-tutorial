@@ -5,13 +5,13 @@ function drawGraph(data) {
 
   const margin = { top: 20, right: 20, bottom: 50, left: 50 };
 
-  const plot_width = width - margin.left - margin.right;
-  const plot_height = height - margin.left - margin.right;
-
   // TITLE
   document.getElementsByTagName("h2")[0].innerHTML = "Fisher's Iris Dataset";
   document.getElementsByTagName("h3")[0].innerHTML =
     "Petal Length vs Petal Width";
+
+  const plot_width = width - margin.left - margin.right;
+  const plot_height = height - margin.top - margin.bottom;
 
   // CANVAS
   var canvas = d3
@@ -24,7 +24,7 @@ function drawGraph(data) {
   // PLOT
   var plot = canvas
     .append("g")
-    .attr("transform", `translate(${margin.left}, ${margin.right})`);
+    .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
   // SCALES
   let xScale = d3
