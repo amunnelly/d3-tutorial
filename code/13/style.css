@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+    margin-left: 2rem;
+}
+
+html body div#canvas svg g text.pop{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5rem;
+}
+
+html body div#canvas svg g g.axes g.tick text{
+    font-size: 1rem;
+}
+
+.axisLabel{
+    text-anchor: end;
+}
+
+
+.tooltip{
+    position: absolute;
+    background: aliceblue;
+    pointer-events: none;
+    font: 18px sans-serif;
+    width: 200px;
+    height: 50px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
