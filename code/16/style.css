@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif;
+    margin-left: 2rem;
+}
+
+.tooltip{
+    position: absolute;
+    background: aliceblue;
+    pointer-events: none;
+    font: 18px sans-serif;
+    border: 1px solid black;
+    width: 150px;
+    height: 25px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+line{
+    stroke-width: 1px;
+    stroke: grey;
+}
+
+svg g text.label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}

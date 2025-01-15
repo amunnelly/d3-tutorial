@@ -1,0 +1,582 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "label": "Appolonia"
+        },
+        {
+            "id": 1,
+            "label": "Don Tommassino"
+        },
+        {
+            "id": 2,
+            "label": "Michael"
+        },
+        {
+            "id": 3,
+            "label": "Barzini"
+        },
+        {
+            "id": 4,
+            "label": "Don Corleone"
+        },
+        {
+            "id": 5,
+            "label": "Bonasera"
+        },
+        {
+            "id": 6,
+            "label": "Hagen"
+        },
+        {
+            "id": 7,
+            "label": "Bruno"
+        },
+        {
+            "id": 8,
+            "label": "Sollozzo"
+        },
+        {
+            "id": 9,
+            "label": "Calo"
+        },
+        {
+            "id": 10,
+            "label": "Fabrizzio"
+        },
+        {
+            "id": 11,
+            "label": "Vitelli"
+        },
+        {
+            "id": 12,
+            "label": "Carlo"
+        },
+        {
+            "id": 13,
+            "label": "Connie"
+        },
+        {
+            "id": 14,
+            "label": "Paulie"
+        },
+        {
+            "id": 15,
+            "label": "Woman"
+        },
+        {
+            "id": 16,
+            "label": "Clemenza"
+        },
+        {
+            "id": 17,
+            "label": "Girl"
+        },
+        {
+            "id": 18,
+            "label": "Tessio"
+        },
+        {
+            "id": 19,
+            "label": "Kay"
+        },
+        {
+            "id": 20,
+            "label": "Lampone"
+        },
+        {
+            "id": 21,
+            "label": "Sandra"
+        },
+        {
+            "id": 22,
+            "label": "Sonny"
+        },
+        {
+            "id": 23,
+            "label": "Cop"
+        },
+        {
+            "id": 24,
+            "label": "Mccluskey"
+        },
+        {
+            "id": 25,
+            "label": "Fredo"
+        },
+        {
+            "id": 26,
+            "label": "Genco"
+        },
+        {
+            "id": 27,
+            "label": "Johnny"
+        },
+        {
+            "id": 28,
+            "label": "Luca"
+        },
+        {
+            "id": 29,
+            "label": "Nazorine"
+        },
+        {
+            "id": 30,
+            "label": "Driver"
+        },
+        {
+            "id": 31,
+            "label": "Neri"
+        },
+        {
+            "id": 32,
+            "label": "Enzo"
+        },
+        {
+            "id": 33,
+            "label": "Moe"
+        },
+        {
+            "id": 34,
+            "label": "Mama"
+        },
+        {
+            "id": 35,
+            "label": "Woltz"
+        },
+        {
+            "id": 36,
+            "label": "Lucy"
+        },
+        {
+            "id": 37,
+            "label": "Man"
+        },
+        {
+            "id": 38,
+            "label": "Man 2"
+        },
+        {
+            "id": 39,
+            "label": "Nurse"
+        },
+        {
+            "id": 40,
+            "label": "Priest"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 4
+        },
+        {
+            "source": 5,
+            "target": 4
+        },
+        {
+            "source": 5,
+            "target": 6
+        },
+        {
+            "source": 5,
+            "target": 4
+        },
+        {
+            "source": 7,
+            "target": 8
+        },
+        {
+            "source": 9,
+            "target": 2
+        },
+        {
+            "source": 9,
+            "target": 10
+        },
+        {
+            "source": 9,
+            "target": 11
+        },
+        {
+            "source": 12,
+            "target": 13
+        },
+        {
+            "source": 12,
+            "target": 6
+        },
+        {
+            "source": 12,
+            "target": 2
+        },
+        {
+            "source": 12,
+            "target": 14
+        },
+        {
+            "source": 12,
+            "target": 15
+        },
+        {
+            "source": 12,
+            "target": 16
+        },
+        {
+            "source": 12,
+            "target": 4
+        },
+        {
+            "source": 12,
+            "target": 17
+        },
+        {
+            "source": 12,
+            "target": 18
+        },
+        {
+            "source": 16,
+            "target": 4
+        },
+        {
+            "source": 16,
+            "target": 6
+        },
+        {
+            "source": 16,
+            "target": 19
+        },
+        {
+            "source": 16,
+            "target": 20
+        },
+        {
+            "source": 16,
+            "target": 8
+        },
+        {
+            "source": 16,
+            "target": 2
+        },
+        {
+            "source": 16,
+            "target": 14
+        },
+        {
+            "source": 16,
+            "target": 21
+        },
+        {
+            "source": 16,
+            "target": 22
+        },
+        {
+            "source": 16,
+            "target": 18
+        },
+        {
+            "source": 13,
+            "target": 17
+        },
+        {
+            "source": 13,
+            "target": 19
+        },
+        {
+            "source": 13,
+            "target": 2
+        },
+        {
+            "source": 13,
+            "target": 22
+        },
+        {
+            "source": 23,
+            "target": 24
+        },
+        {
+            "source": 23,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 25
+        },
+        {
+            "source": 4,
+            "target": 26
+        },
+        {
+            "source": 4,
+            "target": 27
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 21
+        },
+        {
+            "source": 4,
+            "target": 22
+        },
+        {
+            "source": 4,
+            "target": 6
+        },
+        {
+            "source": 4,
+            "target": 19
+        },
+        {
+            "source": 4,
+            "target": 28
+        },
+        {
+            "source": 4,
+            "target": 29
+        },
+        {
+            "source": 4,
+            "target": 8
+        },
+        {
+            "source": 4,
+            "target": 18
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 30,
+            "target": 22
+        },
+        {
+            "source": 30,
+            "target": 31
+        },
+        {
+            "source": 32,
+            "target": 2
+        },
+        {
+            "source": 10,
+            "target": 11
+        },
+        {
+            "source": 10,
+            "target": 2
+        },
+        {
+            "source": 25,
+            "target": 27
+        },
+        {
+            "source": 25,
+            "target": 2
+        },
+        {
+            "source": 25,
+            "target": 33
+        },
+        {
+            "source": 25,
+            "target": 6
+        },
+        {
+            "source": 25,
+            "target": 22
+        },
+        {
+            "source": 17,
+            "target": 2
+        },
+        {
+            "source": 17,
+            "target": 18
+        },
+        {
+            "source": 6,
+            "target": 19
+        },
+        {
+            "source": 6,
+            "target": 34
+        },
+        {
+            "source": 6,
+            "target": 2
+        },
+        {
+            "source": 6,
+            "target": 14
+        },
+        {
+            "source": 6,
+            "target": 35
+        },
+        {
+            "source": 6,
+            "target": 27
+        },
+        {
+            "source": 6,
+            "target": 28
+        },
+        {
+            "source": 6,
+            "target": 36
+        },
+        {
+            "source": 6,
+            "target": 29
+        },
+        {
+            "source": 6,
+            "target": 8
+        },
+        {
+            "source": 6,
+            "target": 22
+        },
+        {
+            "source": 6,
+            "target": 18
+        },
+        {
+            "source": 27,
+            "target": 33
+        },
+        {
+            "source": 27,
+            "target": 22
+        },
+        {
+            "source": 27,
+            "target": 19
+        },
+        {
+            "source": 27,
+            "target": 2
+        },
+        {
+            "source": 19,
+            "target": 34
+        },
+        {
+            "source": 19,
+            "target": 22
+        },
+        {
+            "source": 19,
+            "target": 2
+        },
+        {
+            "source": 20,
+            "target": 14
+        },
+        {
+            "source": 28,
+            "target": 8
+        },
+        {
+            "source": 28,
+            "target": 37
+        },
+        {
+            "source": 34,
+            "target": 22
+        },
+        {
+            "source": 37,
+            "target": 38
+        },
+        {
+            "source": 37,
+            "target": 8
+        },
+        {
+            "source": 37,
+            "target": 2
+        },
+        {
+            "source": 24,
+            "target": 2
+        },
+        {
+            "source": 24,
+            "target": 8
+        },
+        {
+            "source": 2,
+            "target": 33
+        },
+        {
+            "source": 2,
+            "target": 8
+        },
+        {
+            "source": 2,
+            "target": 22
+        },
+        {
+            "source": 2,
+            "target": 31
+        },
+        {
+            "source": 2,
+            "target": 39
+        },
+        {
+            "source": 2,
+            "target": 40
+        },
+        {
+            "source": 2,
+            "target": 18
+        },
+        {
+            "source": 2,
+            "target": 11
+        },
+        {
+            "source": 39,
+            "target": 22
+        },
+        {
+            "source": 14,
+            "target": 15
+        },
+        {
+            "source": 14,
+            "target": 22
+        },
+        {
+            "source": 21,
+            "target": 8
+        },
+        {
+            "source": 21,
+            "target": 22
+        },
+        {
+            "source": 8,
+            "target": 22
+        },
+        {
+            "source": 22,
+            "target": 18
+        }
+    ]
+}
