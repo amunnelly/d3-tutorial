@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif;
+    margin-left: 2rem;
+}
+
+.tooltip{
+    position: absolute;
+    background: aliceblue;
+    pointer-events: none;
+    font: 18px sans-serif;
+    border: 1px solid black;
+    width: 162px;
+    height: 100px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.legend-label, .axisLabel{
+    text-anchor: end;
+}
+
+.legend-label{
+    cursor: pointer;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+}
